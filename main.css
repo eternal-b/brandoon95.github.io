@@ -12,10 +12,10 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,700;1,400&display=swap');
 
 * {
-  background: #000000;
+  background: #303446;
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 500;
-  color: #20C20E;
+  color: #c6d0f5;
 }
 
 body {
@@ -41,12 +41,12 @@ a {
 }
 
 footer {
-  color: #000000;
+  color: #B5BFE2;
   margin-top: auto;
 }
 
 .text-background {
-  color:#f2d5cf;
+  color:#B5BFE2;
 }
 
 .text-secondary {
