@@ -123,7 +123,7 @@ footer {
   margin:0 auto;
   width:600px;
   height:300px;
-  border-bottom:30px solid #D0D102;
+  border-bottom:30px solid #684eff;
 }
 .clear{
   clear:both;
@@ -132,7 +132,7 @@ footer {
   float:left;
   width:30px;
   height:100px;
-  background:#61AE24;
+  background:#c6d0f5;
   -webkit-animation:left-wall 3s infinite;
   
 }
@@ -140,7 +140,7 @@ footer {
   float:right;
   width:30px;
   height:100px;
-  background:#61AE24;
+  background:#c6d0f5;
   -webkit-animation:right-wall 3s infinite;
   
 }
@@ -148,7 +148,7 @@ footer {
   float:left;
   width:50px;
   height:50px;
-  background:#F18D05;
+  background:#babbf1;
   border-radius:50%;
   margin-top:30px;
   -webkit-animation:bounce_ball 3s linear infinite;
